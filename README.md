@@ -14,8 +14,7 @@ This project is an implementation of a Language Model (LLM) training framework i
 - Adam optimizer for parameter updates
 - Data loading and batching utilities
 - Tokenization and vocabulary handling
-- Model checkpointing and loading
-- Comprehensive test suite for all modules
+
 
 ## Project Structure
 
